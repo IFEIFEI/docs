@@ -1,0 +1,68 @@
+.
+├── 0715927.pdf
+├── 1,2_The nature of computation.pdf
+├── 1312.0658v1.pdf
+├── 82126362.pdf
+├── ARM汇编手册.pdf
+├── cacm.pdf
+├── concrete-semantics.pdf
+├── contents
+├── cs-577-hmwk-6.pdf
+├── DUI0068.pdf
+├── DUI0204IC_rvct_assembler_guide.pdf
+├── ECS-LFCS-97-375.pdf
+├── fulltext.pdf
+├── functional language
+│   ├── arrows-and-idioms.pdf
+│   ├── arrows-jfp.pdf
+│   ├── baastad.pdf
+│   ├── composable.ps
+│   ├── constraints.pdf
+│   ├── effects.ps
+│   ├── effectstocl.pdf
+│   ├── essence.ps
+│   ├── imperative.ps
+│   ├── linearcall.ps
+│   ├── linearmonad.ps
+│   ├── monadsdeclare.ps
+│   └── monads.ps
+├── jonesgomardsestoft-a4.pdf
+├── Language+and+compiler+support.pdf
+├── makefile.pdf
+├── math logic
+│   ├── Handbook of practical logic and automated reasoning.pdf
+│   ├── Lectures On Logic.pdf
+│   ├── linearsyn.ps
+│   ├── model
+│   ├── proof
+│   │   ├── ChapterII.pdf
+│   │   ├── ChapterI.pdf
+│   │   ├── [CTTCS 07] Proofs and Types - Girard, Taylor, Lafont(CUP 1989)(2003).pdf
+│   │   ├── [SLFM 137] Handbook of Proof Theory - Samuel R. Buss (Elsevier 1998)(T) .pdf
+│   │   └── Takeuti - Proof Theory (Elsevier 1987).pdf
+│   ├── recursive
+│   └── set
+├── METAPOSTcn.pdf
+├── MetaPost简明教程(英文).pdf
+├── monadscomb.ps
+├── mpboxes.pdf
+├── mpgraph.pdf
+├── mpintro.pdf
+├── mpman.pdf
+├── nasmdoc.pdf
+├── Object-oriented+programming+with+ANSI-C.pdf
+├── os
+│   └── mem
+│       └── 08PLD:Foundations_of_the C++_concurrency_memory_model.pdf
+├── presentation.pdf
+├── super-final.pdf
+├── tal-toplas.pdf
+├── thesis.pdf
+├── tutorial.pdf
+├── unsound-oopsla16.pdf
+├── x86tso-paper.tphols.pdf
+├── 计算模型导引习题答案.pdf
+├── 论文下载
+└── 递归函数论-莫绍揆.pdf
+
+8 directories, 57 files
